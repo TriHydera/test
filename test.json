@@ -1,1 +1,11 @@
-[["Added", "Username", "Target", "Difficulty", "Score", "Time", "Proof"]]
+[
+{
+"Added": "test", 
+"Username": "test", 
+"Target": "test", 
+"Difficulty": "test",  
+"Score": "test",  
+"Time": "test",  
+"Proof": "test"
+}
+]
